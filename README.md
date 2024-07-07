@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 ## Welcome to My GitHub Profile!
 
 ### My GitHub Wrapped
-
+<!--
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepyadav10011995&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav10011995&layout=compact&theme=radical)
+-->
 
-[Check out my GitHub Wrapped](https://www.githubwrapped.io/sandeepyadav10011995)
+[Check out my GitHub Statistics](https://www.githubwrapped.io/sandeepyadav10011995)
 
 
