@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to My Profile!
+## Welcome to My GitHub Profile!
 
-[Check out my GitHub Wrapped for 2023](https://www.githubwrapped.io/sandeepyadav10011995)
+### My GitHub Wrapped
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepyadav10011995&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav10011995&layout=compact&theme=radical)
+
+[Check out my GitHub Wrapped](https://www.githubwrapped.io/sandeepyadav10011995)
+
 
