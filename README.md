@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepyadav10011995&layout=compact&theme=radical)
 -->
 
-[Check out my GitHub Statistics](https://www.githubwrapped.io/sandeepyadav10011995)
-
 
